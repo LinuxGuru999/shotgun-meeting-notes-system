@@ -1,0 +1,23 @@
+{
+  "overview": "This is a minimalist digital template designed for small business teams that need to stop losing track of who is doing what after meetings. It forces clarity by separating discussions from decisions and assigning specific owners to action items immediately.",
+  "usecases": [
+    "Weekly team standups where you need to quickly confirm task assignments",
+    "Client check-ins where you must document agreed-upon changes and next steps",
+    "Project kickoff meetings to establish initial responsibilities and key decisions"
+  ],
+  "howto": [
+    "Download the file and import it into your preferred document editor like Notion, Google Docs, or Word",
+    "Copy the template into your project folder and rename it with the meeting date and topic",
+    "Fill in the decision log and action item table during or immediately after the meeting to finalize ownership"
+  ],
+  "faq": [
+    {
+      "q": "Is this a complete project management software?",
+      "a": "No, it is strictly a document template that requires you to manually update it or copy data into your existing tools."
+    },
+    {
+      "q": "Does it integrate automatically with Slack or email?",
+      "a": "No, there are no automatic integrations; you must manually copy the contents to share them with stakeholders."
+    }
+  ]
+}
